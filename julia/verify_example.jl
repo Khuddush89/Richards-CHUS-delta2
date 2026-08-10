@@ -6,6 +6,7 @@ using DifferentialEquations
 using Plots
 using JSON
 using LinearAlgebra
+using QuadGK
 
 # ---------------------------------------------------------------------------
 # Parameters
